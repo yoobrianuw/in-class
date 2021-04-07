@@ -1,1 +1,18 @@
 /* we'll add some basic style here */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+header {
+    background-color: rgba(0, 0, 0, .2);
+    height: 10em;
+}
+
+main {
+    background-color: rgba(0, green, 0, 0);
+}
+
+main p:first-child {
+    color: green;
+}
